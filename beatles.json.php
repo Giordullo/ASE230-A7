@@ -1,0 +1,2 @@
+<?php die() ?>
+[{"firstname":"John","lastname":"Lennon","birthdate":"1940-10-09"},{"firstname":"Paul","lastname":"McCartney"},{"firstname":"John","lastname":"Lennon"},{"firstname":"Paul","lastname":"McCartney"}]
